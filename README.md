@@ -1,4 +1,4 @@
- # [Active learning for Semi-supervised Domain Adaptation(WACV 2021)]
+ # [Active learning for few shot Semi-supervised Domain Adaptation(WACV 2021)]
 
 ![](docs/fig1.png)
 
