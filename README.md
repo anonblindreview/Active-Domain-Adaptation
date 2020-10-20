@@ -4,7 +4,7 @@
 
 ## Install
 
-'conda env create -n SSDA.yml'
+`conda env create -n SSDA.yml`
 
 The code is written for Pytorch 0.4.0, but should work for other version
 with some modifications.
