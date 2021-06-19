@@ -1,5 +1,4 @@
- # Active learning for few shot Semi-supervised Domain Adaptation
-
+ # [Improving Semi Supervised Domain Adaptation using Target Selection and Semantics](https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Singh_Improving_Semi-Supervised_Domain_Adaptation_Using_Effective_Target_Selection_and_Semantics_CVPRW_2021_paper.html)
 ![](docs/fig1.png)
 
 ## Install
